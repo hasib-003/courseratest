@@ -9,6 +9,6 @@
         speakHello.speak(names[i]);
       }
     }
-    window.speakGoodBy=speakHello;
+    window.speakHello=speakHello;
     window.speakGoodBy=speakGoodBy;
     })(window);
